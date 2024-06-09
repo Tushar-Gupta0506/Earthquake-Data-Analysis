@@ -1,4 +1,5 @@
-### Earthquake Analysis
+## Earthquake Analysis
+### Tools Used: Excel | Jupyter Notebook
 ### Explore the Reports
 Curious to explore the insights and reports generated from this project? [Click here](https://github.com/Tushar-Gupta0506/Earthquake-Data-Analysis/blob/main/Earthquake%20Data%20Analysis.ipynb).
 #### Description:
