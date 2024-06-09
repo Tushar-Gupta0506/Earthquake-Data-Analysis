@@ -1,5 +1,6 @@
 ### Earthquake Analysis
-
+### Explore the Reports
+Curious to explore the insights and reports generated from this project? [Click here](https://github.com/Tushar-Gupta0506/Earthquake-Data-Analysis/blob/main/Earthquake%20Data%20Analysis.ipynb).
 #### Description:
 This project involves a detailed analysis of earthquake data for the years 2022-2023. The dataset, containing information on earthquake occurrences, magnitudes, and dates, is loaded from an Excel file. Utilizing Python libraries such as Pandas, Matplotlib, and Seaborn, the analysis aims to uncover patterns and insights from the earthquake data.
 
